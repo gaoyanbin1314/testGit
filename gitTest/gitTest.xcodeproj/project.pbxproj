@@ -7,8 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		258BF4531E026826002C7A03 /* secondViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 258BF4521E026826002C7A03 /* secondViewController.m */; };
-		258BF4561E0269EC002C7A03 /* thirdViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 258BF4551E0269EC002C7A03 /* thirdViewController.m */; };
+
+		258BF4591E0270A6002C7A03 /* fouthViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 258BF4581E0270A6002C7A03 /* fouthViewController.m */; };
 		25F353B21DFE3B2600206B34 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 25F353B11DFE3B2600206B34 /* main.m */; };
 		25F353B51DFE3B2600206B34 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 25F353B41DFE3B2600206B34 /* AppDelegate.m */; };
 		25F353B81DFE3B2600206B34 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 25F353B71DFE3B2600206B34 /* ViewController.m */; };
@@ -30,10 +30,9 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		258BF4511E026826002C7A03 /* secondViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = secondViewController.h; sourceTree = "<group>"; };
-		258BF4521E026826002C7A03 /* secondViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = secondViewController.m; sourceTree = "<group>"; };
-		258BF4541E0269EC002C7A03 /* thirdViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = thirdViewController.h; sourceTree = "<group>"; };
-		258BF4551E0269EC002C7A03 /* thirdViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = thirdViewController.m; sourceTree = "<group>"; };
+
+		258BF4571E0270A6002C7A03 /* fouthViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = fouthViewController.h; sourceTree = "<group>"; };
+		258BF4581E0270A6002C7A03 /* fouthViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = fouthViewController.m; sourceTree = "<group>"; };
 		25F353AD1DFE3B2600206B34 /* gitTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = gitTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		25F353B11DFE3B2600206B34 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		25F353B31DFE3B2600206B34 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -72,6 +71,8 @@
 		25F353A41DFE3B2600206B34 = {
 			isa = PBXGroup;
 			children = (
+				258BF4571E0270A6002C7A03 /* fouthViewController.h */,
+				258BF4581E0270A6002C7A03 /* fouthViewController.m */,
 				25F353AF1DFE3B2600206B34 /* gitTest */,
 				25F353C91DFE3B2600206B34 /* gitTestTests */,
 				25F353AE1DFE3B2600206B34 /* Products */,
@@ -232,7 +233,8 @@
 			files = (
 				25F353B81DFE3B2600206B34 /* ViewController.m in Sources */,
 				25F353B51DFE3B2600206B34 /* AppDelegate.m in Sources */,
-				258BF4561E0269EC002C7A03 /* thirdViewController.m in Sources */,
+
+				258BF4591E0270A6002C7A03 /* fouthViewController.m in Sources */,
 				25F353B21DFE3B2600206B34 /* main.m in Sources */,
 				25F353D71DFE4CE900206B34 /* firstViewController.m in Sources */,
 				258BF4531E026826002C7A03 /* secondViewController.m in Sources */,
