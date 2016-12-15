@@ -1,25 +1,21 @@
 //
-//  secondViewController.m
+//  thirdViewController.m
 //  gitTest
 //
 //  Created by 高艳彬 on 2016/12/15.
 //  Copyright © 2016年 YBKit. All rights reserved.
 //
 
-#import "secondViewController.h"
+#import "thirdViewController.h"
 
-@interface secondViewController ()
+@interface thirdViewController ()
 
 @end
 
-@implementation secondViewController
+@implementation thirdViewController
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    
-    
-    // 提交到新分支 newmaster
-    
     // Do any additional setup after loading the view.
 }
 
